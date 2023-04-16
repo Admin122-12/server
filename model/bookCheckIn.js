@@ -1,5 +1,5 @@
 
-const emailNotification = require('./sendEmail');
+// const emailNotification = require('./sendEmail');
 module.exports.bookAppointment = async function (req, res) {
     try {
         req = req.body
