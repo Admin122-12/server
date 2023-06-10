@@ -72,7 +72,7 @@ module.exports.getVisitCharges = function (req, res) {
             if (err) {
                 console.error('An error occurred while reading the JSON file:', err);
                 res.send({ status: false, code: 500, message: "An error occurred while reading the JSON file" })
-            }
+            } 
 
             let jsonData;
             try {
