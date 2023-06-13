@@ -1,44 +1,23 @@
 [
   {
     "id": 1,
-    "title": "new Noti",
-    "description": "Details",
+    "title": "20% Off",
+    "description": "Get 20% off on all electronics. Description: High-quality smartphones, laptops, and accessories. In this case, the offer is providing a 20% discount on electronics, and the description specifies that the available products include smartphones, laptops, and accessories",
     "validFrom": "2023-06-10T06:58:16.836Z",
     "validTill": "2023-06-16T23:59:59.000Z"
   },
   {
     "id": 2,
-    "title": "new Noti",
-    "description": "Details",
-    "validFrom": "2023-06-10T07:06:50.871Z",
-    "validTill": "2023-06-10T07:06:50.871Z"
+    "title": "30% Off",
+    "description": "Get 30% off on all electronics. Description: High-quality smartphones, laptops, and accessories. In this case, the offer is providing a 30% discount on electronics, and the description specifies that the available products include smartphones, laptops, and accessories",
+    "validFrom": "2023-06-16T06:58:16.836Z",
+    "validTill": "2023-06-20T23:59:59.000Z"
   },
   {
     "id": 3,
-    "title": "new Noti",
-    "description": "Details",
-    "validFrom": "2023-06-10T07:06:56.835Z",
-    "validTill": "2023-06-10T07:06:56.834Z"
-  },
-  {
-    "id": 4,
-    "title": "new Noti",
-    "description": "Details",
-    "validFrom": "2023-06-10T07:07:03.512Z",
-    "validTill": "2023-06-21T23:59:59.000Z"
-  },
-  {
-    "id": 5,
-    "title": "new Noti",
-    "description": "Details",
-    "validFrom": "2023-06-10T07:32:38.907Z",
-    "validTill": "2023-06-27T23:59:59.000Z"
-  },
-  {
-    "id": 6,
-    "title": "new Noti",
-    "description": "Details",
-    "validFrom": "2023-06-10T07:32:51.076Z",
-    "validTill": "2023-06-27T23:59:59.000Z"
+    "title": "40% Off",
+    "description": "Get 40% off on all electronics. Description: High-quality smartphones, laptops, and accessories. In this case, the offer is providing a 40% discount on electronics, and the description specifies that the available products include smartphones, laptops, and accessories",
+    "validFrom": "2023-06-20T06:58:16.836Z",
+    "validTill": "2023-06-26T23:59:59.000Z"
   }
 ]
