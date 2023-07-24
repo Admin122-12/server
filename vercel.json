@@ -1,20 +1,14 @@
-{
-    "version": 2,
-    "builds": [
-      {
-        "src": "app.js",
-        "use": "@vercel/node"
-      }
-    ],
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/app.js"
-      }
-    ],
-    "env": {
-      "API_KEY": "your-api-key",
-      "DB_URL": "your-database-url"
-    }
-  }
-  
+Policy for Happy to Help You:
+
+At Happy to Help You, we are dedicated to providing exceptional customer service and ensuring a positive experience for all our clients. Our policy is rooted in a commitment to transparency, integrity, and prompt assistance. We prioritize the needs and satisfaction of our customers, and we aim to exceed their expectations in every interaction.
+
+Customer-Centric Approach: Our foremost priority is our customers' satisfaction. We actively listen to their needs, concerns, and feedback, tailoring our services to meet their specific requirements.
+
+Transparent Communication: We believe in open and honest communication. Our representatives will provide clear and accurate information, keeping customers informed about any updates or changes related to their requests.
+
+Timely Responses: We understand the importance of timely assistance. We strive to respond promptly to customer inquiries and aim to resolve issues as quickly as possible, minimizing any inconvenience they may face.
+
+Data Privacy and Security: Protecting our customers' personal information is of utmost importance. We adhere to strict data privacy and security protocols to ensure the confidentiality and safety of all customer data.
+
+Continuous Improvement: We are committed to continuously improving our services. Regular feedback from customers allows us to identify areas for enhancement and implement necessary changes to better serve their needs.
+
